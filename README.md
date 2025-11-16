@@ -1,60 +1,76 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q8uUq2fW32uNl9P70V/giphy.gif" width="120" alt="Animated circuit board/code background"/>
-  <h1>Hello, Engineer 👋 I'm huntingcodes-001 (Zakarias)</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/l4pTsh4FuTBCXpwDm/giphy.gif" width="250" alt="Hacker coding on multiple screens"/>
+  <h1>**Hunting Codebases & Building Things that Work**</h1>
 </div>
 
----
-
-### 🛡️ Core Expertise & Focus
-
-I am a multifaceted engineer and developer specializing in the convergence of **Hardware Engineering, Software Development, and Cybersecurity.** My passion lies in building secure, efficient, and innovative **full-stack products**—from the lowest-level firmware to the public-facing API.
-
-| Domain | Focus Areas | Key Projects to Pin |
-| :--- | :--- | :--- |
-| **Hardware / IoT** | Embedded C/C++, IoT Protocols (MQTT), Microcontroller Programming (ESP, Arduino), PCB Prototyping, Sensor Integration. | **Web-Ctrl-ESP8266**, **Web-Crtl-Stepper-ESP8266** |
-| **Software Dev** | Python (Django, FastAPI), JavaScript, API Design, Relational Databases (PostgreSQL). | **blind-assist**, **GeoLocation** |
-| **Cybersecurity** | Vulnerability Assessment, Threat Modeling, Defensive Programming, Network Security (Scanning/Monitoring). | **CodeGuard**, **WebScanner** |
-| **Product Dev** | End-to-End Solution Architecture, Technical Documentation, Project Management (Agile). | Any complete, documented project. |
-
-### 🛠️ The Tech Stack (Hardware to Cloud)
-
-I speak the language of both silicon and servers.
-
-<p align="left">
-  <h4>Embedded & Hardware:</h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,vscode" alt="Embedded/Hardware Icons"/>
-</p>
-<p align="left">
-  <h4>Web, Security & DevOps:</h4>
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,html,css,docker,postgres,git,kali,linux" alt="Security/Web Icons"/>
-</p>
 <br>
 
+## **⚔️ Zakarias (huntingcodes-001) | The Full-Stack Architect**
+
+I operate at the intersection of the physical and digital world, specializing in developing secure, robust, and scalable solutions from the silicon up to the cloud. I thrive on bringing complex **hardware/software products** to life while ensuring **cyber defense** is built into the foundation.
+
+### **✨ My Craft**
+
+* **🌐 Software Development:** Architecting efficient backends using **Python (Django/FastAPI)** and crafting engaging front-ends with **JavaScript** and modern frameworks.
+* **🔌 Hardware Engineering:** Deep expertise in **Embedded C/C++**, microcontroller programming (ESP, Arduino), and low-level protocol integration for intelligent IoT systems.
+* **🔒 Cybersecurity:** Proactively securing digital assets through **Vulnerability Assessment**, **Defensive Coding Practices**, and effective **Threat Modeling**.
+* **🏭 Product Development:** Driving end-to-end product lifecycles, focusing on robust architecture and clear documentation to transition projects from concept to market-ready reality.
+
 ---
 
-### 📈 Dynamic Activity Overview
+### **🛠️ The Arsenal**
+
+My toolkit includes the full spectrum of development, deployment, and defense:
+
+<p align="left">
+  **Embedded & IoT:**
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,vscode,mqtt" alt="Embedded/IoT Icons"/>
+  
+  <br>
+
+  **Web & Data:**
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,ts,html,css,postgres,docker,kubernetes" alt="Web/Data Icons"/>
+  
+  <br>
+
+  **Security & DevOps:**
+  <img src="https://skillicons.dev/icons?i=kali,linux,git,githubactions,vim" alt="Security/DevOps Icons"/>
+</p>
+
+---
+
+### **📊 My Digital Footprint**
+
+Here’s a snapshot of my coding consistency and language preferences.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huntingcodes-001&show_icons=true&theme=dracula&hide_border=false&count_private=true&title_color=ff6e6e" 
+  <img src="https://github-readme-stats.vercel.app/api?username=huntingcodes-001&show_icons=true&theme=midnight&hide_border=false&count_private=true&title_color=A0C4FF&icon_color=A0C4FF" 
        alt="huntingcodes-001's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huntingcodes-001&layout=compact&theme=dracula&title_color=ff6e6e" 
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huntingcodes-001&layout=compact&theme=midnight&title_color=A0C4FF" 
        alt="huntingcodes-001's Top Languages" />
        
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huntingcodes-001&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huntingcodes-001&theme=midnight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring_color=6AA6F8&fire_color=98C379" 
        alt="huntingcodes-001's Streak Stats" />
 </div>
 
----
+### **👁️ Profile View Count**
 
-### 🔗 Let's Connect
+I'm glad you stopped by!
 
-I'm always open to discussing new hardware challenges, cybersecurity trends, or product collaboration opportunities.
-
-| Platform | Link | Badge |
-| :--- | :--- | :--- |
-| **Personal Site** | [Visit zakarias.in](http://zakarias.in) | <img src="https://img.shields.io/badge/Portfolio-2E333C?style=for-the-badge&logo=react&logoColor=61DAFB"/> |
-| **LinkedIn** | [Connect on LinkedIn]([REPLACE_WITH_YOUR_LINKEDIN_URL]) | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> |
-| **Email** | [Email me directly]([REPLACE_WITH_YOUR_EMAIL]) | <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=huntingcodes-001&style=for-the-badge&color=blueviolet" 
+       alt="huntingcodes-001 profile views" />
+</p>
 
 ---
+
+### **📬 Let's Connect**
+
+* **🌐 Portfolio:** [zakarias.in](http://zakarias.in)
+* **LinkedIn:** [Connect with me professionally]([REPLACE_WITH_YOUR_LINKEDIN_URL])
+* **Email:** [Send me a quick email]([REPLACE_WITH_YOUR_EMAIL])
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/main/src/wave.gif" width="30"/>
+</div>
