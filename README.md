@@ -49,16 +49,21 @@ My toolkit includes the full spectrum of development, deployment, and defense:
 Here’s a snapshot of my coding consistency and language preferences.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huntingcodes-001&show_icons=true&theme=midnight&hide_border=false&count_private=true&title_color=A0C4FF&icon_color=A0C4FF" 
-       alt="huntingcodes-001's GitHub Stats" />
-       
-  <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huntingcodes-001&layout=compact&theme=midnight&title_color=A0C4FF" 
-       alt="huntingcodes-001's Top Languages" />
-       
-  <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=huntingcodes-001&theme=midnight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring_color=6AA6F8&fire_color=98C379" 
-       alt="huntingcodes-001's Streak Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=huntingcodes-001&show_icons=true&theme=midnight&hide_border=false&count_private=true&title_color=A0C4FF&icon_color=A0C4FF" 
+    alt="huntingcodes-001's GitHub Stats" 
+  />
+  
+  <br/> <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=huntingcodes-001&layout=compact&theme=midnight&title_color=A0C4FF" 
+    alt="huntingcodes-001's Top Languages" 
+  />
+  
+  <br/> <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=huntingcodes-001&theme=midnight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring_color=6AA6F8&fire_color=98C379" 
+    alt="huntingcodes-001's Streak Stats" 
+  />
 </div>
-
 ### **👁️ Profile View Count**
 
 I'm glad you stopped by!
