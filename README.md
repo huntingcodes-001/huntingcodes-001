@@ -5,7 +5,7 @@
 
 <br>
 
-## **⚔️ Zakarias (huntingcodes-001) | The Full-Stack Architect**
+## **⚔️ Amir Zakaria | The Full-Stack Engineer**
 
 I operate at the intersection of the physical and digital world, specializing in developing secure, robust, and scalable solutions from the silicon up to the cloud. I thrive on bringing complex **hardware/software products** to life while ensuring **cyber defense** is built into the foundation.
 
@@ -22,7 +22,7 @@ I operate at the intersection of the physical and digital world, specializing in
 
 My toolkit includes the full spectrum of development, deployment, and defense:
 
-<p align="left">
+<h1 align="left">
   **Embedded & IoT:**
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,vscode,mqtt" alt="Embedded/IoT Icons"/>
   
@@ -35,7 +35,7 @@ My toolkit includes the full spectrum of development, deployment, and defense:
 
   **Security & DevOps:**
   <img src="https://skillicons.dev/icons?i=kali,linux,git,githubactions,vim" alt="Security/DevOps Icons"/>
-</p>
+</h1>
 
 ---
 
