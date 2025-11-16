@@ -72,9 +72,9 @@ I'm glad you stopped by!
 
 ### **📬 Let's Connect**
 
-* **🌐 Portfolio:** [zakarias.in](http://zakarias.in)
-* **LinkedIn:** [Connect with me professionally]([REPLACE_WITH_YOUR_LINKEDIN_URL])
-* **Email:** [Send me a quick email]([REPLACE_WITH_YOUR_EMAIL])
+* **Portfolio:** [zakarias.in](https://zakarias.in)
+* **LinkedIn:** [Connect with me professionally](https://linkedin.com/in/amir-zak)
+* **Email:** [Send me a quick email](amir@zakarias.in)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/main/src/wave.gif" width="30"/>
