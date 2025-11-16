@@ -22,19 +22,24 @@ I operate at the intersection of the physical and digital world, specializing in
 
 My toolkit includes the full spectrum of development, deployment, and defense:
 
-<h1 align="left">
+<h1>
+  
   **Embedded & IoT:**
+  
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,vscode,mqtt" alt="Embedded/IoT Icons"/>
   
   <br>
 
   **Web & Data:**
+  
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,ts,html,css,postgres,docker,kubernetes" alt="Web/Data Icons"/>
   
   <br>
 
   **Security & DevOps:**
+  
   <img src="https://skillicons.dev/icons?i=kali,linux,git,githubactions,vim" alt="Security/DevOps Icons"/>
+  
 </h1>
 
 ---
