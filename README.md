@@ -28,13 +28,13 @@ My toolkit includes the full spectrum of development, deployment, and defense:
   
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,vscode,mqtt" alt="Embedded/IoT Icons"/>
   
-  <br><br>br>
+  <br><br>
 
   **Web & Data:**
   
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,ts,html,css,postgres,docker,kubernetes" alt="Web/Data Icons"/>
   
-  <br><br>br>
+  <br><br>
 
   **Security & DevOps:**
   
